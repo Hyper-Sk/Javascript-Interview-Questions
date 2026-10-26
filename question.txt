@@ -1,0 +1,25 @@
+
+
+
+- - - - - - - - -  Javascirpt Interview Question  - - - - - - 
+
+
+What is hoisting in JavaScript?
+What is the difference between == and ===?
+What is this keyword in JavaScript? How does it behave in arrow functions?
+What is the difference between null and undefined?
+What are prototype and prototypal inheritance in JS?
+What is the difference between function declaration and function expression?
+What are callbacks? Why do we use them?
+What is callback hell and how to avoid it?
+What is the difference between promise chaining and async/await?
+What is the difference between for...in, for...of, and forEach?
+What are ES6 features you know (like arrow functions, template literals, spread/rest, destructuring, etc.)?
+What is the difference between synchronous and asynchronous execution in the event loop?
+What is debouncing and throttling in JavaScript?
+What are modules in JavaScript? (import/export)
+What is garbage collection and how does JS handle memory management?
+What is the difference between local storage, session storage, and cookies?
+
+
+    
